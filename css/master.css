@@ -489,6 +489,10 @@ ul {
   }
 }
 
+.error {
+  color: red;
+}
+
 .site-header {
   position: sticky;
   top: 0;
